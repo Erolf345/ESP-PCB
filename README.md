@@ -4,6 +4,8 @@ whith a SMT assembly service.
 
 The original idea was for it to be used to control LED strips but any project that needs MOSFETs or a shield on which to connect sensors will benefit from this board.
 
+![PCB design](images/PCB(design).png)
+
 ## Parts
 
 MOSFETs:                [IRLML6344TRPBF](https://www.infineon.com/dgdl/irlml6344pbf.pdf?fileId=5546d462533600a4015356689c44262c)
